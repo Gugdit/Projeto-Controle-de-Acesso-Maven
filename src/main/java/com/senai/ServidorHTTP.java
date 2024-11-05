@@ -1,4 +1,4 @@
-package com.senai.controledeacesso;
+package com.senai;
 
 import com.sun.net.httpserver.HttpExchange;
 import com.sun.net.httpserver.HttpHandler;

@@ -1,4 +1,4 @@
-package com.senai.controledeacesso;
+package com.senai;
 
 import org.eclipse.paho.client.mqttv3.*;
 import org.eclipse.paho.client.mqttv3.persist.MemoryPersistence;
